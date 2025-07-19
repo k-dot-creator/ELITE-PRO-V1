@@ -1,13 +1,13 @@
 {
   "name": "ELITE-PRO-V1",
-  "description": "A WhatsApp Bot Created by ElitePro",
-  "logo": "https://i.ibb.co/jk0ynvbn/7a8c4b5b617fa11a1e9a61190f427546.jpg",
+  "description": "A WhatsApp Bot Created by ROBBIEJR",
+  "logo": "https://https://i.ibb.co/CKQQg4f5/shaban-md.jpg",
   "keywords": ["bot", "whatsapp", "baileys", "javascript", "elitepro"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
     "SESSION_ID": {
-      "description": "Put your SESSION_ID here.",
+      "description": "{"noiseKey":{"private":{"type":"Buffer","data":"iMu0nx6aff4NrdlI37fGcxGOHEHMJsP1oirZrRz/DE0="},"public":{"type":"Buffer","data":"H2ovHv4yhogSNV38/Q6XBESiaEymFKT8MYCNulX3MHc="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"4P6mbmCtnoxXA+2XfYi6nUp06eYp7Ym/yo85sz6SiGk="},"public":{"type":"Buffer","data":"sKePFGm1r7ZBfq7FlU9jgsjBia2dmgMJYHsEHNPnkTA="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"qG1fx+e5Frek0Esc2h7Puv8li/JQPSG2g/dNSaPHwHA="},"public":{"type":"Buffer","data":"CDOXmZoz/Eyp2O+bso/eR0ZI/u8A15TFBBGbUo742xQ="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"gAehz+ggMhQeWUJvXWJM52vmZj5gitP6zn2TPUtee2M="},"public":{"type":"Buffer","data":"JwVX3O2bn1Io73gThNwBYm5aY7SGLrOEAzlTtYFjqRI="}},"signature":{"type":"Buffer","data":"cP3MQdS0NEV3DG5FwCB3hquJOc+mWg90UJyS3hCtnDaSPoDhPg1nq3C4lNtGsn1qBPQWx5U0cstU2L+woXM8iQ=="},"keyId":1},"registrationId":201,"advSecretKey":"LVXz0tk+kw78u6rkrhiqvZ6syBJo2xJI4M1bOsJoaDQ=","processedHistoryMessages":[],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":0,"accountSettings":{"unarchiveChats":false},"registered":true,"pairingCode":"GPTM4WVL","me":{"id":"254115258178:22@s.whatsapp.net","lid":"64700092035072:22@lid"},"account":{"details":"CJex8oUBEKbC7sMGGAcgACgA","accountSignatureKey":"BQ4FQ16e0DSGw6bXmFh42QEox5fO0ohpTObC5EqEo0Q=","accountSignature":"Jxl/7y7VVHpnnwxeFdxgMt6ig5JDz8dz3RKsUejitkzNAzKOivWbIWAfVIo8mUoTAIL2w0ioNf4kU5HrXDMvCw==","deviceSignature":"LB6fkRVqThrYBP8frtnJi+SW+YQOf7tZ7v4VjbAEIqJBYPGSVpbBIkAoCAg3Jz2ajnWqvLyn3IH5D3kpWltijg=="},"signalIdentities":[{"identifier":{"name":"254115258178:22@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BQUOBUNentA0hsOm15hYeNkBKMeXztKIaUzmwuRKhKNE"}}],"platform":"android","routingInfo":{"type":"Buffer","data":"CAIIEg=="},"lastAccountSyncTimestamp":1752932648,"lastPropHash":"1K4hH4","myAppStateKeyId":"AAAAAGsD"}",
       "value": ""
     },
     "PREFIX": {
@@ -16,27 +16,27 @@
     },
     "OWNER_NUMBER": {
       "description": "Owner's phone number in international format (without +).",
-      "value": "2348109263390"
+      "value": "254115258178"
     },
     "OWNER_NAME": {
       "description": "Owner's display name.",
-      "value": "ElitePro"
+      "value": "ROBBIEJR"
     },
     "BOT_NAME": {
       "description": "Bot display name.",
-      "value": "ELITE-PRO-V1"
+      "value": "ROBBIEJR V.1"
     },
     "AUTO_RECORDING": {
       "description": "Enable auto-recording simulation (true or false).",
-      "value": "false"
+      "value": "true"
     },
     "AUTO_TYPING": {
       "description": "Enable auto-typing simulation (true or false).",
-      "value": "false"
+      "value": "true"
     },
     "AUTO_RECORD_TYPE": {
       "description": "Enable audio recording type simulation.",
-      "value": "false"
+      "value": "true"
     },
     "AUTO_READ": {
       "description": "Auto read all incoming messages.",
@@ -44,7 +44,7 @@
     },
     "AUTO_BIO": {
       "description": "Enable auto bio updates with time.",
-      "value": "true"
+      "value": "false"
     },
     "ANTI_92": {
       "description": "Block +92 numbers automatically (true or false).",
